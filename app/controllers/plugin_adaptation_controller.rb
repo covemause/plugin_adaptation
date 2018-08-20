@@ -4,6 +4,9 @@ class PluginAdaptationController < ApplicationController
 
   def new
   end
+  
+  def show
+  end
 
   def create
     system(plugin_adaptation_params[:command])
