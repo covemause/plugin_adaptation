@@ -11,7 +11,7 @@ class PluginAdaptationController < ApplicationController
   def create
     system(plugin_adaptation_params[:command])
     #system('touch tmp/restart.txt')
-    redirect_to new_plugin_adaptation_path
+    redirect_to plugin_adaptation_new_path
   end
 
 private
