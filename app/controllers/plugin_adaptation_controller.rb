@@ -2,7 +2,7 @@ class PluginAdaptationController < ApplicationController
 
   unloadable
 
-  def index
+  def new
   end
 
   def create
