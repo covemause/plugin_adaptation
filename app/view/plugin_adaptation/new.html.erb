@@ -1,8 +1,0 @@
-<h2>プラグインのインストール</h2>
-<%= form_for :plugin_adaptation, url: plugin_adaptation_index_url do |f| %>
-<p>
-<%= f.label :command, "コマンド" %>
-<%= f.text_field :command, :placeholder => 'git clone https://github.com~ plugins/plugin_name', :style => 'width:500px;' %>
-<%= f.submit('インストール') %>
-</p>
-<% end %>
