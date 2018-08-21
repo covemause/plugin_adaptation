@@ -2,7 +2,7 @@
 
 使い方  
 
-http://redmine_url/plugin_adaptation/new  
+http://redmine_url/plugin_adaptation
 
 
 <img src="https://github.com/covemause/documents/blob/master/plugin_adaptation_ss.JPG" />  
