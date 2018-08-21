@@ -20,3 +20,6 @@ $(function(){<br />
   var updates = $('#check-for-updates').parent();<br />
   updates.append('<a href="/plugin_adaptation" style="margin-left: 150px;">プラグインのインストール</a>');<br />
 });<br />
+<br />
+
+<img src="https://github.com/covemause/documents/blob/master/plugin_adaptation_ss2.JPG" />
