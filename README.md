@@ -5,3 +5,4 @@
 http://redmine_url/plugin_adaptation/new
 
 
+<img src="https://github.com/covemause/documents/blob/master/plugin_adaptation_ss.JPG" />
