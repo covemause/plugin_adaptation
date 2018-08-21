@@ -1,8 +1,0 @@
-<h2>プラグインのインストール</h2>
-<%= form_for :plugin_adaptation, url: plugin_adaptation_index_path do |f| %>
-<p>
-<%= f.label :command, "コマンド" %>
-<%= f.text_field :command, :placeholder => 'git clone https://github.com/onozaty/redmine-view-customize.git plugins/view_customize', :style => 'width:500px;' %>
-<%= f.submit('インストール') %>
-</p>
-<% end %>
