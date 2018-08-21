@@ -12,11 +12,11 @@ view_customizeプラグインをインストールしたら、呼び出し元の
 
 <hr/>
 
-Path pattern: admin/plugins
-Type:	JavaScript
-
-Code:
-$(function(){
-  var updates = $('#check-for-updates').parent();
-  updates.append('<a href="/plugin_adaptation" style="margin-left: 150px;">プラグインのインストール</a>');
-});
+Path pattern: admin/plugins<br />
+Type:	JavaScript<br />
+<br />
+Code:<br />
+$(function(){<br />
+  var updates = $('#check-for-updates').parent();<br />
+  updates.append('<a href="/plugin_adaptation" style="margin-left: 150px;">プラグインのインストール</a>');<br />
+});<br />
