@@ -1,4 +1,7 @@
-# plugin_adaptation
-redmine plugins
+# redmineプラグインの拡張（仮）
 
-http://redmine_url/plugin_adaptation/
+使い方
+
+http://redmine_url/plugin_adaptation/new
+
+
