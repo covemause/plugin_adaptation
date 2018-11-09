@@ -2,12 +2,6 @@
 
 使い方  
 
-http://redmine_url/plugin_adaptation
-
-
-<img src="https://github.com/covemause/documents/blob/master/plugin_adaptation_ss.JPG" />  
-
-
 [管理] - [プラグイン]
 
 
@@ -15,3 +9,9 @@ http://redmine_url/plugin_adaptation
 
 
 末尾に「プラグインのインストール」のリンクから遷移する。
+
+
+
+
+
+<img src="https://github.com/covemause/documents/blob/master/plugin_adaptation_ss.JPG" />  
