@@ -11,7 +11,7 @@ http://redmine_url/plugin_adaptation
 [管理] - [プラグイン]
 
 
-<img src="https://github.com/covemause/documents/blob/master/plugin_adaptation_install.JPG" /> 
+<img src="https://github.com/covemause/documents/blob/master/plugin_adaptation_install.PNG" /> 
 
 
 末尾に「プラグインのインストール」のリンクから遷移する。
