@@ -1,3 +1,5 @@
+require_dependency 'hooks'
+
 Redmine::Plugin.register :plugin_adaptation do
   name 'Plugin Adaptation plugin'
   author 'covemause'
