@@ -1,9 +1,12 @@
 # redmineプラグインの拡張（仮）
 
+
 * ### 前提条件
 
 現時点（2018.11）では、アプリケーションからプラグインをインストールするには「redmine」の権限が必要です。
+
 ※root権限の場合はredmineをグループにいれてやればいい。たぶん
+
 
 ```
 ../redmine # ls -l
@@ -39,3 +42,9 @@ git clone https://github.com/covemause/plugin_adaptation.git
 
 
 <img src="https://github.com/covemause/documents/blob/master/plugin_adaptation_ss.JPG" />  
+
+
+
+* ### 完成いめーじ
+
+<img src="https://github.com/covemause/documents/blob/master/plugin_adaptation_image.PNG" />  
