@@ -10,7 +10,8 @@ class PluginAdaptationController < ApplicationController
 
   def create
     system(plugin_adaptation_params[:command])
-    #system('touch tmp/restart.txt')
+    system('bundle exec rake redmine:plugins:migrate RAILS_ENV=production')
+    system('passenger-config restart-app usr/src/redmine')
     redirect_to plugin_adaptation_index_path
   end
 
